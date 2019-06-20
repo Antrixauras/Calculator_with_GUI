@@ -1,10 +1,10 @@
 # Calculator_with_GUI👩‍💻 
 
-### Code Requirements
+## Code Requirements
 - Tkinter (Available in python)
 
 
-### Project Commands
+## Project Commands
 - It is a calculator which performs basic functions such as:
   - Addition (+)
   - Subtraction (-)
@@ -14,7 +14,7 @@
   - Equals (=)
   
 
-### Explanation Through Screeshots
+## Explanation Through Screeshots
 
  ### --> Basic UI(User Interface) :
 
