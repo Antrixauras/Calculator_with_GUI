@@ -28,4 +28,3 @@
 
 <img src="Screenshot3.png">
 
-## 👉Do Follow and ⭐the repository if you find it helpful.
