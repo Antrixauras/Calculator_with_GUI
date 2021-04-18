@@ -12,19 +12,7 @@
   - Division (/)
   - Clear (C)
   - Equals (=)
-  
-
-## Explanation Through Screeshots
-
+ 
  ### --> Basic UI(User Interface) :
 
-<img src="Screenshot1.png">
-
- ### --> Giving Input :
-
-<img src="Screenshot2.png">
-
- ### --> Output :
-
-<img src="Screenshot3.png">
-
+<img src="calc.png">
